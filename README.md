@@ -6,3 +6,4 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [strings](./solutions/strings/README.md)|
 | 02  |  [math](./solutions/math/README.md)|
+| 03  |  [array](./solutions/array/README.md)|
